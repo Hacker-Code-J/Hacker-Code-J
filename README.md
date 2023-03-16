@@ -1,64 +1,3 @@
-# Ji, Yong-Hyeon
-
-I'm Ji Yong-Hyeon, a korean undergraduate mathematics and cryptography student.
-
-## Skills
-
-- LaTex
-- C
-- Number Theroy
-- Abstract Algerbra
-- Public Key Cryptography
-
-## Projects
-
-### Project 1
-
-This project is a web app that allows users to track their daily expenses.
-
-[Check it out](https://github.com/johndoe/project1)
-
-### Project 2
-
-This project is a machine learning model that predicts stock prices using historical data.
-
-[Check it out](https://github.com/johndoe/project2)
-
-## Contact
-
-- Email: hacker3740@gmail.com
-- LinkedIn: [linkedin.com/in/johndoe](https://www.linkedin.com/in/johndoe/)
-
-# Your Name
-
-Brief description about you or your work.
-
-## Projects
-
-- [Project 1](https://github.com/username/project-1)
-- [Project 2](https://github.com/username/project-2)
-
-## Skills
-
-- Skill 1
-- Skill 2
-- Skill 3
-
-<details>
-<summary>Toggle more information</summary>
-
-## About
-
-Additional information about you or your work.
-
-## Contact
-
-- Email: youremail@example.com
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname/)
-
-</details>
-
 <!-- Replace YOUR-USERNAME with your actual Github username -->
 
 <h1 align="center"> Hi there 👋, I'm YOUR-USERNAME </h1>
@@ -72,6 +11,10 @@ Additional information about you or your work.
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="YOUR-USERNAME" />
+</p>
+
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hacker-Code-J&theme=radical" alt="Hacker-Code-J" />
 </p>
 
 <h3 align="center"> Projects </h3>
@@ -90,6 +33,12 @@ Additional information about you or your work.
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white">
 </p>
 
+<h3 align="center"> Productivity Graph </h3>
+
+<p align="center">
+  <img src="https://github.com/Hacker-Code-J/Hacker-Code-J/blob/main/images/PRODUCTIVE_TIME.svg" alt="Productivity Time">
+</p>
+
 <details>
 <summary><h3 align="center">More about me</h3></summary>
 
@@ -106,4 +55,3 @@ Additional information about you or your work.
 </ul>
 
 </details>
-

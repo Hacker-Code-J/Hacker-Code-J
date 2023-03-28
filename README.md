@@ -1,7 +1,8 @@
 <!-- Replace YOUR-USERNAME with your actual Github username -->
 
 <h1 align="center"> Hi there 👋, I'm Ji, Yong-hyeon </h1>
-<h3 align="center"> Brief description about you or your work </h3>
+<h3 align="center"> Department of Information Security, Cryptography and Mathematics</h3>
+<h3 align="center"> Kookmin University, Seuol, Repulic of Korea </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yong-hyeon-ji"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
@@ -23,7 +24,7 @@
   <li><a href="https://github.com/Hacker-Code-J/PROJECT-2">PROJECT-2</a></li>
 </ul>
 
-<h3 align="center"> Skills </h3>
+<h3 align="center"> Skills of Programming </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=LaTeX&logoColor=white">
@@ -33,6 +34,16 @@
   <img src="https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=Haskell&logoColor=white">
 </p>
 
+<h3 align="center"> Skills of Mathematics</h3>
+
+<p align="center">
+   <img src="https://img.shields.io/badge/Number%20Theory-9370DB?style=flat">
+  <img src="https://img.shields.io/badge/Abstract%20Algebra-48D1CC?style=flat">
+  <img src="https://img.shields.io/badge/Linear%20Algebra-FFA07A?style=flat">
+  <img src="https://img.shields.io/badge/Probability%20Theory-FFD700?style=flat">
+  <img src="https://img.shields.io/badge/Public%20Key%20Cryptography-20B2AA?style=flat">
+  <img src="https://img.shields.io/badge/Quantum%20Cryptography-BA55D3?style=flat">
+</p>
 
 <h3 align="center"> Productivity Graph </h3>
 

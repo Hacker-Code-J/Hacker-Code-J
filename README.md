@@ -29,6 +29,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=LaTeX&logoColor=white">
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=black">
+  <img src="https://img.shields.io/badge/-SageMath-800442?style=flat&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/-Manim-FF69B4?style=flat&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=Haskell&logoColor=white">

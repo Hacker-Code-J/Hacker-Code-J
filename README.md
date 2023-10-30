@@ -10,7 +10,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Hacker-Code-J&show_icons=true&theme=radical" alt="Hacker-Code-J" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=Hacker-Code-J&show_icons=true&theme=radical]https://hacker-code-j.notion.site/2023-Fall-AAP-Team-3-P-A-N-D-A-FUBAO-8a09720a080c4ad5859913331f832d55?pvs=4" alt="Hacker-Code-J" />
 </p>
 
 <p align="center"> 
@@ -20,7 +20,7 @@
 <h3 align="center"> Projects </h3>
 
 <ul>
-  <li><a href="https://github.com/Hacker-Code-J/PROJECT-1">PROJECT-1</a></li>
+  <li><a href="https://github.com/Hacker-Code-J/PROJECT-1">Development of Big Integer Library and DLP CaLculator</a></li>
   <li><a href="https://github.com/Hacker-Code-J/PROJECT-2">PROJECT-2</a></li>
 </ul>
 

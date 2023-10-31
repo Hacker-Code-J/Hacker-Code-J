@@ -1,35 +1,29 @@
-# Ji, Yong-hyeon 🌟
-### Department of Information Security, Cryptography, and Mathematics
-#### Kookmin University, Seoul, Republic of Korea
 
+<!-- Replace YOUR-USERNAME with your actual Github username -->
 
-░░░░░██╗██╗░░░  ██╗░░░██╗░█████╗░███╗░░██╗░██████╗░░░░░░░██╗░░██╗██╗░░░██╗███████╗░█████╗░███╗░░██╗
-░░░░░██║██║░░░  ╚██╗░██╔╝██╔══██╗████╗░██║██╔════╝░░░░░░░██║░░██║╚██╗░██╔╝██╔════╝██╔══██╗████╗░██║
-░░░░░██║██║░░░  ░╚████╔╝░██║░░██║██╔██╗██║██║░░██╗░█████╗███████║░╚████╔╝░█████╗░░██║░░██║██╔██╗██║
-██╗░░██║██║██╗  ░░╚██╔╝░░██║░░██║██║╚████║██║░░╚██╗╚════╝██╔══██║░░╚██╔╝░░██╔══╝░░██║░░██║██║╚████║
-╚█████╔╝██║╚█║  ░░░██║░░░╚█████╔╝██║░╚███║╚██████╔╝░░░░░░██║░░██║░░░██║░░░███████╗╚█████╔╝██║░╚███║
-░╚════╝░╚═╝░╚╝  ░░░╚═╝░░░░╚════╝░╚═╝░░╚══╝░╚═════╝░░░░░░░╚═╝░░╚═╝░░░╚═╝░░░╚══════╝░╚════╝░╚═╝░░╚══╝
+<h1 align="center"> Hi there 👋, I'm Ji, Yong-hyeon </h1>
+<h3 align="center"> Department of Information Security, Cryptography and Mathematics</h3>
+<h3 align="center"> Kookmin University, Seuol, Repulic of Korea </h3>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/yong-hyeon-ji"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+  <a href="mailto:hacker3740@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"></a>
+</p>
 
-🔗 **Connect:**
-- [LinkedIn](https://www.linkedin.com/in/yong-hyeon-ji)
-- 📧 Email: hacker3740@gmail.com
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hacker-Code-J&theme=radical" alt="Hacker-Code-J" />
+</p>
 
----
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Hacker-Code-J&show_icons=true&theme=radical" alt="Hacker-Code-J" />
+</p>
 
-📊 **Stats & Graphs:**
+<h3 align="center"> Projects </h3>
 
-![Hacker-Code-J's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hacker-Code-J&show_icons=true&theme=radical)
-
-![Hacker-Code-J's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hacker-Code-J&theme=radical)
-
----
-
-🛠️ **Skills:**
-- Programming: LaTeX, C, SageMath, Python, Manim, Haskell
-- Mathematics: Number Theory, Abstract Algebra, Linear Algebra, Probability Theory
-- Cryptography: Public Key Cryptography, Quantum Cryptography
+<ul>
+  <li><a href="https://github.com/Hacker-Code-J/PROJECT-1">Development of Big Integer Library and DLP CaLculator</a></li>
+  <li><a href="https://github.com/Hacker-Code-J/PROJECT-2">PROJECT-2</a></li>
+</ul>
 
 <h3 align="center"> Skills of Programming </h3>
 
@@ -58,28 +52,24 @@
   <img src="https://img.shields.io/badge/Quantum%20Cryptography-BA55D3?style=flat">
 </p>
 
+<h3 align="center"> Productivity Graph </h3>
 
----
-
-📌 **Projects:**
-1. [Development of Big Integer Library and DLP Calculator](https://github.com/Hacker-Code-J/PROJECT-1)
-2. [PROJECT-2](https://github.com/Hacker-Code-J/PROJECT-2)
-
----
-
-📈 **Productivity Graph:**
-![Productivity Time](https://github.com/Hacker-Code-J/Hacker-Code-J/blob/main/images/PRODUCTIVE_TIME.svg)
-
----
+<p align="center">
+  <img src="https://github.com/Hacker-Code-J/Hacker-Code-J/blob/main/images/PRODUCTIVE_TIME.svg" alt="Productivity Time">
+</p>
 
 <details>
-  <summary>🔍 **More about me**</summary>
+<summary><h3 align="center">More about me</h3></summary>
 
-  ## About 
-  - Details or description about yourself.
+<h3 align="center"> About </h3>
 
-  ## Contact 
-  - Email: hacker3740@gmail.com
-  - [LinkedIn](https://www.linkedin.com/in/Hacker-Code-J)
+<p>Additional information about you or your work.</p>
+
+<h3 align="center"> Contact </h3>
+
+<ul>
+  <li>Email: hacker3740@gmail.com</li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/Hacker-Code-J/">Hacker-Code-J</a></li>
+</ul>
 
 </details>

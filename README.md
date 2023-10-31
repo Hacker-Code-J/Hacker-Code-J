@@ -11,11 +11,11 @@
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hacker-Code-J&theme=radical" alt="Hacker-Code-J" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hacker-Code-J&show_icons=true&theme=radical" alt="Hacker-Code-J" />
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Hacker-Code-J&show_icons=true&theme=radical" alt="Hacker-Code-J" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hacker-Code-J&theme=radical" alt="Hacker-Code-J" />
 </p>
 
 <h3 align="center"> Projects </h3>

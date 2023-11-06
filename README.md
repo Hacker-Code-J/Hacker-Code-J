@@ -50,15 +50,22 @@ I'm Ji Yong-Hyeon, a passionate developer who loves to explore new technologies 
     </td>      
     <!-- Third Column -->
     <td valign="top" style="padding: 0;">
-      <img src="https://img.shields.io/badge/Math-Number%20Theory-9370DB?style=flat"><br>
-      <img src="https://img.shields.io/badge/Math-Abstract%20Algebra-48D1CC?style=flat"><br>
+      <img src="https://img.shields.io/badge/Math-Set%20Theory-4e79a7?style=flat"><br>
+      <img src="https://img.shields.io/badge/Math-Number%20Theory-9467bd?style=flat"><br>
+      <img src="https://img.shields.io/badge/Math-Abstract%20Algebra-1f77b4?style=flat"><br>
+      <img src="https://img.shields.io/badge/Math-Calculus-2ca02c?style=flat"><br>
       <img src="https://img.shields.io/badge/Math-Linear%20Algebra-FFA07A?style=flat"><br>
-      <img src="https://img.shields.io/badge/Math-Probability%20Theory-FFD700?style=flat"><br>
+      <img src="https://img.shields.io/badge/Math-Probability%20Theory-17becf?style=flat"><br>
+      <img src="https://img.shields.io/badge/Math-Statistics-167f7f?style=flat"><br>
       <!-- Add more badges or content here -->
     </td>
     <!-- Fourth Column -->
     <td valign="top" style="padding: 0;">
-      <img src="https://img.shields.io/badge/Crypto-Public%20Key%20Cryptography-20B2AA?style=flat"><br>
+      <img src="https://img.shields.io/badge/Crypto-Symmetric%20Key%20Cryptography-5050f3?style=flat"><br>
+      <img src="https://img.shields.io/badge/Crypto-Public%20Key%20Cryptography-0077CC?style=flat"><br>
+      <img src="https://img.shields.io/badge/Crypto-Cryptanalysis-CC0000?style=flat"><br>
+      <img src="https://img.shields.io/badge/Crypto-Hash%20Functions-00008B?style=flat"><br>
+      <img src="https://img.shields.io/badge/Crypto-Digital%20Signatures-CCDD14?style=flat"><br>
       <!-- Add more badges or content here -->
     </td>
   </tr>

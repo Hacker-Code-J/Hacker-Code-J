@@ -10,16 +10,39 @@
   <a href="mailto:hacker3740@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"></a>
 </p>
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Hacker-Code-J&show_icons=true&theme=radical" alt="Hacker-Code-J" />
+<p align="center">
+  <table width="100%">
+    <tr>
+      <!-- First image on the left -->
+      <td width="80%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=Hacker-Code-J&show_icons=true&theme=radical" alt="Hacker-Code-J's GitHub Stats" width="100%" />
+      </td>
+      <!-- Third image on the right, spanning the height of two rows -->
+      <td width="80%" rowspan="2" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-Code-J&langs_count=8" alt="Hacker-Code-J's Top Languages" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <!-- Second image on the left -->
+      <td width="100%" valign="top">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hacker-Code-J&theme=radical" alt="Hacker-Code-J's GitHub Streak" width="100%" />
+      </td>
+    </tr>
+  </table>
 </p>
 
+
+
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-Code-J&langs_count=8" alt="Hacker-Code-J" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hacker-Code-J&show_icons=true&theme=radical" alt="Hacker-Code-J" />
 </p>
  
 <p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hacker-Code-J&theme=radical" alt="Hacker-Code-J" />
+</p>
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-Code-J&langs_count=8" alt="Hacker-Code-J" />
 </p>
 
 <h3 align="center"> Projects </h3>

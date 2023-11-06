@@ -14,11 +14,11 @@
   <table width="100%">
     <tr>
       <!-- First image on the left -->
-      <td width="80%" valign="top">
+      <td width="75%" valign="top">
         <img src="https://github-readme-stats.vercel.app/api?username=Hacker-Code-J&show_icons=true&theme=radical" alt="Hacker-Code-J's GitHub Stats" width="100%" />
       </td>
       <!-- Third image on the right, spanning the height of two rows -->
-      <td width="80%" rowspan="2" valign="top">
+      <td width="75%" rowspan="2" valign="top">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-Code-J&langs_count=8" alt="Hacker-Code-J's Top Languages" width="100%" />
       </td>
     </tr>

@@ -80,15 +80,15 @@ I'm Ji Yong-Hyeon, a passionate developer who loves to explore new technologies 
   <table width="100%" style="table-layout: fixed;">
     <tr>
       <!-- Left side, two images stacked vertically -->
-      <td width="50%">
+      <td width="60%">
         <!-- First image on top -->
         <img src="https://github-readme-stats.vercel.app/api?username=Hacker-Code-J&show_icons=true&theme=radical" alt="Hacker-Code-J's GitHub Stats" width="100%" style="max-height: 300px; display: block; object-fit: contain;" />
         <!-- Second image below -->
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hacker-Code-J&theme=radical" alt="Hacker-Code-J's GitHub Streak" width="100%" style="max-height: 300px; display: block; object-fit: contain;" />
       </td>
       <!-- Right side, one image -->
-      <td width="50%" style="vertical-align: top;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-Code-J&langs_count=4&theme=radical" alt="Hacker-Code-J's Top Languages" width="100%" style="max-height: 600px; display: block; object-fit: contain;" />
+      <td width="40%" style="vertical-align: top;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-Code-J&langs_count=7&theme=radical" alt="Hacker-Code-J's Top Languages" width="100%" style="max-height: 600px; display: block; object-fit: contain;" />
       </td>
     </tr>
   </table>

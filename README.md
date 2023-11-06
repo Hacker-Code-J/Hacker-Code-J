@@ -11,38 +11,21 @@
 </p>
 
 <p align="center">
-  <table width="100%">
+  <table width="100%" style="table-layout: fixed;">
     <tr>
-      <!-- First image on the left -->
-      <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=Hacker-Code-J&show_icons=true&theme=radical" alt="Hacker-Code-J's GitHub Stats" width="100%" />
+      <!-- Left side, two images stacked vertically -->
+      <td width="50%">
+        <!-- First image on top -->
+        <img src="https://github-readme-stats.vercel.app/api?username=Hacker-Code-J&show_icons=true&theme=radical" alt="Hacker-Code-J's GitHub Stats" width="100%" style="max-height: 300px; display: block; object-fit: contain;" />
+        <!-- Second image below -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hacker-Code-J&theme=radical" alt="Hacker-Code-J's GitHub Streak" width="100%" style="max-height: 300px; display: block; object-fit: contain;" />
       </td>
-      <!-- Third image on the right, spanning the height of two rows -->
-      <td width="50%" rowspan="2" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-Code-J&langs_count=8" alt="Hacker-Code-J's Top Languages" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <!-- Second image on the left -->
-      <td width="50%" valign="top">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hacker-Code-J&theme=radical" alt="Hacker-Code-J's GitHub Streak" width="100%" />
+      <!-- Right side, one image -->
+      <td width="50%" style="vertical-align: top;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-Code-J&langs_count=4" alt="Hacker-Code-J's Top Languages" width="100%" style="max-height: 600px; display: block; object-fit: contain;" />
       </td>
     </tr>
   </table>
-</p>
-
-
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Hacker-Code-J&show_icons=true&theme=radical" alt="Hacker-Code-J" />
-</p>
- 
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hacker-Code-J&theme=radical" alt="Hacker-Code-J" />
-</p>
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-Code-J&langs_count=8" alt="Hacker-Code-J" />
 </p>
 
 <h3 align="center"> Projects </h3>

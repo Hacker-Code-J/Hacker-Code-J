@@ -4,7 +4,11 @@
 <h1 align="center"> Hi there 👋, I'm Ji, Yong-hyeon </h1>
 <h3 align="center"> Department of Information Security, Cryptography and Mathematics</h3>
 <h3 align="center"> Kookmin University, Seuol, Repulic of Korea </h3>
+<h3 align="center">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHacker-Code-J&count_bg=%2320D7B2&title_bg=%23A163EF&icon=nintendogamecube.svg&icon_color=%23E7E7E7&title=Hacker-Code-J&edge_flat=false)](https://hits.seeyoufarm.com)
 
+  
 <!-- <p align="center"> -->
 <!--  <a href="https://www.linkedin.com/in/yong-hyeon-ji"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a> -->
 <!--  <a href="mailto:hacker3740@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"></a> -->
@@ -61,8 +65,6 @@
   <img src="https://img.shields.io/badge/Public%20Key%20Cryptography-20B2AA?style=flat">
 <!--   <img src="https://img.shields.io/badge/Quantum%20Cryptography-BA55D3?style=flat"> -->
 </p>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHacker-Code-J&count_bg=%2320D7B2&title_bg=%23A163EF&icon=nintendogamecube.svg&icon_color=%23E7E7E7&title=Hacker-Code-J&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <details>
 <summary><h3 align="center">More about me</h3></summary>

@@ -23,62 +23,43 @@ I'm Hacker-Code-J, a passionate developer who loves to explore new technologies 
 
 ## <span style="color:#f8b88b;">Technologies & Tools</span> :wrench:
 
-![](https://img.shields.io/badge/Code-JavaScript-yellow)
-![](https://img.shields.io/badge/Tools-Docker-blue)
-![](https://img.shields.io/badge/Code-JavaScript-yellow)
-
-![](https://img.shields.io/badge/Tools-Docker-blue)
-![](https://img.shields.io/badge/Code-C-yellow)
-![](https://img.shields.io/badge/Tools-Docker-blue)
+<!-- ![](https://img.shields.io/badge/Code-JavaScript-yellow) -->
+<!-- ![](https://img.shields.io/badge/Tools-Docker-blue) -->
 <!-- Add more badges from https://shields.io/ -->
 
-<p align="center">
-  <table width="100%" style="margin-left: auto; margin-right: auto; border-collapse: collapse;">
-    <tr>
-      <!-- First Column -->
-      <td align="center" style="padding: 0;">
-        <img src="https://img.shields.io/badge/Code-JavaScript-yellow" alt="JavaScript Badge" /><br>
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <!-- First Column -->
+    <td style="padding: 0;">
+        <img src="https://img.shields.io/badge/Code-C-A8B9CC?style=flat&logo=C&logoColor=black"><br>
+        <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=Python&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Code-SageMath-800442?style=flat&logo=Python&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Code-LaTeX-008080?style=flat&logo=LaTeX&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Code-Manim-FF69B4?style=flat&logo=Python&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Code-Haskell-5D4F85?style=flat&logo=Haskell&logoColor=white"><br>
         <!-- Add more badges or content here -->
-      </td>
-      <!-- Second Column -->
-      <td align="center" style="padding: 0;">
-        <img src="https://img.shields.io/badge/Code-JavaScript-yellow" alt="JavaScript Badge" /><br>
-        <!-- Add more badges or content here -->
-      </td>      
-      <!-- Third Column -->
-      <td align="center" style="padding: 0;">
-        <img src="https://img.shields.io/badge/Code-JavaScript-yellow" alt="JavaScript Badge" /><br>
-        <!-- Add more badges or content here -->
-      </td>
-    </tr>
-  </table>
-</p>
-
-
-<p align="center">
-  <table width="100%">
-    <tr>
-      <!-- First Column -->
-      <td align="center">
-        <img src="https://img.shields.io/badge/Code-JavaScript-yellow" alt="JavaScript Badge" /><br>
-        <!-- Add more badges or content here, with <br> tags for spacing -->
-      </td>
-      <!-- Second Column -->
-      <td align="center">
-        <img src="https://img.shields.io/badge/Code-JavaScript-yellow" alt="JavaScript Badge" /><br>
-        <!-- Add more badges or content here, with <br> tags for spacing -->
-      </td>
-      <!-- Third Column -->
-      <td align="center">
-        <img src="https://img.shields.io/badge/Code-JavaScript-yellow" alt="JavaScript Badge" /><br>
-        <!-- Add more badges or content here, with <br> tags for spacing -->
-      </td>
-    </tr>
-  </table>
-</p>
-
-
-
+    </td>
+    <!-- Second Column -->
+    <td style="padding: 0;">
+      <img src="https://img.shields.io/badge/Tool-VsCode-blue" alt="JavaScript Badge" /><br>
+      <img src="https://img.shields.io/badge/Tool-TexStudio-20D7B2?style=flat"><br>
+      <!-- Add more badges or content here -->
+    </td>      
+    <!-- Third Column -->
+    <td style="padding: 0;">
+      <img src="https://img.shields.io/badge/Math-Number%20Theory-9370DB?style=flat"><br>
+      <img src="https://img.shields.io/badge/Math-Abstract%20Algebra-48D1CC?style=flat"><br>
+      <img src="https://img.shields.io/badge/Math-Linear%20Algebra-FFA07A?style=flat"><br>
+      <img src="https://img.shields.io/badge/Math-Probability%20Theory-FFD700?style=flat"><br>
+      <!-- Add more badges or content here -->
+    </td>
+    <!-- Fourth Column -->
+    <td style="padding: 0;">
+      <img src="https://img.shields.io/badge/Crypto-Public%20Key%20Cryptography-20B2AA?style=flat"><br>
+      <!-- Add more badges or content here -->
+    </td>
+  </tr>
+</table>
 
 ## <span style="color:#9acd32;">Statistics</span> :bar_chart:
 
@@ -101,33 +82,6 @@ I'm Hacker-Code-J, a passionate developer who loves to explore new technologies 
 </p>
 
 </div>
-
-<h3 align="center"> Skills of Programming </h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=black">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/-SageMath-800442?style=flat&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=LaTeX&logoColor=white">
-  <img src="https://img.shields.io/badge/-Manim-FF69B4?style=flat&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=Haskell&logoColor=white">
-</p>
-
-<h3 align="center"> Skills of Mathematics</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Number%20Theory-9370DB?style=flat">
-  <img src="https://img.shields.io/badge/Abstract%20Algebra-48D1CC?style=flat">
-  <img src="https://img.shields.io/badge/Linear%20Algebra-FFA07A?style=flat">
-  <img src="https://img.shields.io/badge/Probability%20Theory-FFD700?style=flat">
-</p>
-
-<h3 align="center"> Skills of Cryptography</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Public%20Key%20Cryptography-20B2AA?style=flat">
-<!--   <img src="https://img.shields.io/badge/Quantum%20Cryptography-BA55D3?style=flat"> -->
-</p>
 
 ## <span style="color:#8a2be2;">Featured Projects</span> :trophy:
 

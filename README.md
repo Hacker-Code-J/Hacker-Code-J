@@ -15,6 +15,10 @@
 </p>
 
 <p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={Hacker-Code-J}&langs_count=8" alt="Hacker-Code-J" />
+</p>
+ 
+<p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hacker-Code-J&theme=radical" alt="Hacker-Code-J" />
 </p>
 

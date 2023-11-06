@@ -38,10 +38,10 @@
 <h3 align="center"> Skills of Programming </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=LaTeX&logoColor=white">
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=black">
-  <img src="https://img.shields.io/badge/-SageMath-800442?style=flat&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/-SageMath-800442?style=flat&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=LaTeX&logoColor=white">
   <img src="https://img.shields.io/badge/-Manim-FF69B4?style=flat&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=Haskell&logoColor=white">
 </p>
@@ -59,7 +59,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Public%20Key%20Cryptography-20B2AA?style=flat">
-  <img src="https://img.shields.io/badge/Quantum%20Cryptography-BA55D3?style=flat">
+<!--   <img src="https://img.shields.io/badge/Quantum%20Cryptography-BA55D3?style=flat"> -->
 </p>
 
 <h3 align="center"> Productivity Graph </h3>

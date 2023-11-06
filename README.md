@@ -30,7 +30,7 @@ I'm Hacker-Code-J, a passionate developer who loves to explore new technologies 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <!-- First Column -->
-    <td style="padding: 0;">
+    <td valign="top" style="padding: 0;">
         <img src="https://img.shields.io/badge/Code-C-A8B9CC?style=flat&logo=C&logoColor=black"><br>
         <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=Python&logoColor=white"><br>
         <img src="https://img.shields.io/badge/Code-SageMath-800442?style=flat&logo=Python&logoColor=white"><br>
@@ -40,13 +40,13 @@ I'm Hacker-Code-J, a passionate developer who loves to explore new technologies 
         <!-- Add more badges or content here -->
     </td>
     <!-- Second Column -->
-    <td style="padding: 0;">
+    <td valign="top" style="padding: 0;">
       <img src="https://img.shields.io/badge/Tool-VsCode-blue" alt="JavaScript Badge" /><br>
       <img src="https://img.shields.io/badge/Tool-TexStudio-20D7B2?style=flat"><br>
       <!-- Add more badges or content here -->
     </td>      
     <!-- Third Column -->
-    <td style="padding: 0;">
+    <td valign="top" style="padding: 0;">
       <img src="https://img.shields.io/badge/Math-Number%20Theory-9370DB?style=flat"><br>
       <img src="https://img.shields.io/badge/Math-Abstract%20Algebra-48D1CC?style=flat"><br>
       <img src="https://img.shields.io/badge/Math-Linear%20Algebra-FFA07A?style=flat"><br>
@@ -54,7 +54,7 @@ I'm Hacker-Code-J, a passionate developer who loves to explore new technologies 
       <!-- Add more badges or content here -->
     </td>
     <!-- Fourth Column -->
-    <td style="padding: 0;">
+    <td valign="top" style="padding: 0;">
       <img src="https://img.shields.io/badge/Crypto-Public%20Key%20Cryptography-20B2AA?style=flat"><br>
       <!-- Add more badges or content here -->
     </td>

@@ -17,15 +17,18 @@
 </div>
 
 ---
+
 ## <span style="color:#ffa500;">About Me</span> :man_technologist:
 
-I'm Hacker-Code-J, a passionate developer who loves to explore new technologies and leverage them to solve real-life problems. I'm enthusiastic about open-source contributions and strive to make a significant impact on the community.
+I'm Ji Yong-Hyeon, a passionate developer who loves to explore new technologies and leverage them to solve real-life problems. I'm enthusiastic about open-source contributions and strive to make a significant impact on the community.
 
 ## <span style="color:#f8b88b;">Technologies & Tools</span> :wrench:
 
 <!-- ![](https://img.shields.io/badge/Code-JavaScript-yellow) -->
 <!-- ![](https://img.shields.io/badge/Tools-Docker-blue) -->
 <!-- Add more badges from https://shields.io/ -->
+
+<div align="center">
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
@@ -60,6 +63,8 @@ I'm Hacker-Code-J, a passionate developer who loves to explore new technologies 
     </td>
   </tr>
 </table>
+
+</div>
 
 ## <span style="color:#9acd32;">Statistics</span> :bar_chart:
 

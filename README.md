@@ -47,6 +47,7 @@ I'm Ji Yong-Hyeon, a passionate developer who loves to explore new technologies 
       <img src="https://img.shields.io/badge/Tool-LinuxMint-228B22?style=flat"><br>
       <img src="https://img.shields.io/badge/Tool-VsCode-blue" alt="JavaScript Badge" /><br>
       <img src="https://img.shields.io/badge/Tool-TexStudio-20D7B2?style=flat"><br>
+      <img src="https://img.shields.io/badge/Tool-ChatGPT4-EE69A4?style=flat"><br>
       <!-- Add more badges or content here -->
     </td>      
     <!-- Third Column -->

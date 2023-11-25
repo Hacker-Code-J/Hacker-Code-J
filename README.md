@@ -1,11 +1,17 @@
 <div align="center">
 <!-- Replace YOUR-USERNAME with your actual Github username -->
 
-<h1 align="center"> Welcome to Hacker-Code-J's Hub :octocat: </h1>
+<h1 align="center"> Welcome to Hacker-Code-J's Hub :octocat: 
+   <a href="https://www.githubtrends.io/wrapped/Hacker-Code-J">
+    <img src="https://img.shields.io/badge/GitHub%20Trends-2023-9cf?style=for-the-badge&logo=github" alt="GitHub Trends">
+  </a>
+</h1>
 <h3 align="center"> Department of Information Security, Cryptography and Mathematics</h3>
 <h3 align="center"> Kookmin University, Seuol, Repulic of Korea </h3>
 <h3 align="center">
-  
+
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHacker-Code-J&count_bg=%2320D7B2&title_bg=%23A163EF&icon=nintendogamecube.svg&icon_color=%23E7E7E7&title=Hacker-Code-J&edge_flat=false)](https://hits.seeyoufarm.com)
 
   

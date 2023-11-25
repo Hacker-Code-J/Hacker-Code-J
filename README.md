@@ -77,8 +77,8 @@ I'm Ji Yong-Hyeon, a passionate developer who loves to explore new technologies 
     </td>
     <!-- Fiveth Column -->
     <td valign="top" style="padding: 0;">
-      <img src="https://img.shields.io/badge/Crypto-Symmetric%20Key%20Cryptography-5050f3?style=flat"><br>
-      <img src="https://img.shields.io/badge/Crypto-Public%20Key%20Cryptography-0077CC?style=flat"><br>
+      <img src="https://img.shields.io/badge/Crypto-SKC-5050f3?style=flat"><br>
+      <img src="https://img.shields.io/badge/Crypto-PKC-0077CC?style=flat"><br>
       <img src="https://img.shields.io/badge/Crypto-Cryptanalysis-CC0000?style=flat"><br>
       <img src="https://img.shields.io/badge/Crypto-Hash%20Functions-00008B?style=flat"><br>
       <img src="https://img.shields.io/badge/Crypto-Discrete%20Logarithm-800080?style=flat"><br>

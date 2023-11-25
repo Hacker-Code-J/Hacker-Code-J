@@ -50,18 +50,18 @@ I'm Ji Yong-Hyeon, a passionate developer who loves to explore new technologies 
     </td>
     <!-- Second Column -->
     <td valign="top" style="padding: 0;">
-      <img src="https://img.shields.io/badge/DevTool-LinuxMint-228B22?style=flat"><br>
-      <img src="https://img.shields.io/badge/DevTool-VsCode-blue" alt="JavaScript Badge" /><br>
-      <img src="https://img.shields.io/badge/DevTool-TexStudio-20D7B2?style=flat"><br>
-      <img src="https://img.shields.io/badge/DevTool-TexMaker-20D7B2?style=flat"><br>
-      <img src="https://img.shields.io/badge/DevTool-ChatGPT4-EE69A4?style=flat"><br>
-      <img src="https://img.shields.io/badge/DevTool-AutoGPT-EE69A4?style=flat"><br>
+      <img src="https://img.shields.io/badge/Tool-LinuxMint-228B22?style=flat"><br>
+      <img src="https://img.shields.io/badge/Tool-VsCode-blue" alt="JavaScript Badge" /><br>
+      <img src="https://img.shields.io/badge/Tool-TexStudio-20D7B2?style=flat"><br>
+      <img src="https://img.shields.io/badge/Tool-TexMaker-20D7B2?style=flat"><br>
+      <img src="https://img.shields.io/badge/Tool-ChatGPT4-EE69A4?style=flat"><br>
+      <img src="https://img.shields.io/badge/Tool-AutoGPT-EE69A4?style=flat"><br>
       <!-- Add more badges or content here -->
     </td>
     <!-- Third Column -->
     <td valign="top" style="padding: 0;">
-      <img src="https://img.shields.io/badge/ProdTool-Notion-5050f3?style=flat"><br>
-      <img src="https://img.shields.io/badge/ProdTool-Obsidian-5050f3?style=flat"><br>
+      <img src="https://img.shields.io/badge/Prod-Notion-5050f3?style=flat"><br>
+      <img src="https://img.shields.io/badge/Prod-Obsidian-5050f3?style=flat"><br>
       <!-- Add more badges or content here -->
     </td>
     <!-- Fourth Column -->

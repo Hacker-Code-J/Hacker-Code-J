@@ -106,6 +106,13 @@ I'm Ji Yong-Hyeon, a passionate developer who loves to explore new technologies 
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-Code-J&langs_count=5&theme=tokyo" alt="Hacker-Code-J's Top Languages" width="100%" style="max-height: 600px; display: block; object-fit: contain;" />
       </td>
     </tr>
+    <!-- Full-width row for GitHub Trends image -->
+    <tr>
+      <td colspan="2">
+        <!-- GitHub Trends image -->
+        <img src="https://api.githubtrends.io/user/svg/Hacker-Code-J/repos?time_range=three_months&group=other&loc_metric=changed&theme=classic" alt="Hacker-Code-J's GitHub Trends" width="100%" style="display: block; object-fit: contain;" />
+      </td>
+    </tr>
   </table>
 </p>
 

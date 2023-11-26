@@ -106,15 +106,36 @@ I'm Ji Yong-Hyeon, a passionate developer who loves to explore new technologies 
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-Code-J&langs_count=5&theme=tokyo" alt="Hacker-Code-J's Top Languages" width="100%" style="max-height: 600px; display: block; object-fit: contain;" />
       </td>
     </tr>
-    <!-- Full-width row for GitHub Trends image -->
+  </table>
+</p>
+
+<p align="center">
+  <table width="100%" style="table-layout: fixed;">
+    <!-- New row for the first and second images side by side -->
     <tr>
-      <td colspan="2">
-        <!-- GitHub Trends image -->
+      <!-- First image on the left -->
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Hacker-Code-J&show_icons=true&theme=tokyo" alt="Hacker-Code-J's GitHub Stats" width="100%" style="max-height: 300px; display: block; object-fit: contain;" />
+      </td>
+      <!-- Second image on the right -->
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hacker-Code-J&theme=tokyo" alt="Hacker-Code-J's GitHub Streak" width="100%" style="max-height: 300px; display: block; object-fit: contain;" />
+      </td>
+    </tr>
+    <!-- New row for the GitHub Trends image on the left and empty space on the right -->
+    <tr>
+      <!-- GitHub Trends image on the left -->
+      <td width="50%">
         <img src="https://api.githubtrends.io/user/svg/Hacker-Code-J/repos?time_range=three_months&group=other&loc_metric=changed&theme=classic" alt="Hacker-Code-J's GitHub Trends" width="100%" style="display: block; object-fit: contain;" />
+      </td>
+      <!-- Empty cell on the right -->
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-Code-J&langs_count=5&theme=tokyo" alt="Hacker-Code-J's Top Languages" width="100%" style="display: block; object-fit: contain;" />         
       </td>
     </tr>
   </table>
 </p>
+
 
 </div>
 

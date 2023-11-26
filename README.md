@@ -93,24 +93,6 @@ I'm Ji Yong-Hyeon, a passionate developer who loves to explore new technologies 
 
 <p align="center">
   <table width="100%" style="table-layout: fixed;">
-    <tr>
-      <!-- Left side, two images stacked vertically -->
-      <td width="55%">
-        <!-- First image on top -->
-        <img src="https://github-readme-stats.vercel.app/api?username=Hacker-Code-J&show_icons=true&theme=tokyo" alt="Hacker-Code-J's GitHub Stats" width="100%" style="max-height: 300px; display: block; object-fit: contain;" />
-        <!-- Second image below -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hacker-Code-J&theme=tokyo" alt="Hacker-Code-J's GitHub Streak" width="100%" style="max-height: 300px; display: block; object-fit: contain;" />
-      </td>
-      <!-- Right side, one image -->
-      <td width="45%" style="vertical-align: top;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-Code-J&langs_count=5&theme=tokyo" alt="Hacker-Code-J's Top Languages" width="100%" style="max-height: 600px; display: block; object-fit: contain;" />
-      </td>
-    </tr>
-  </table>
-</p>
-
-<p align="center">
-  <table width="100%" style="table-layout: fixed;">
     <!-- New row for the first and second images side by side -->
     <tr>
       <!-- First image on the left -->

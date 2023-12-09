@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/GitHub%20Trends-2023-9cf?style=for-the-badge&logo=github" alt="GitHub Trends">
   </a>
 </h1>
-<h3 align="center"> Department of Information Security, Cryptography and Mathematics</h3>
+<h3 align="center"> Department of Information Security, Cryptology and Mathematics</h3>
 <h3 align="center"> Kookmin University, Seuol, Repulic of Korea </h3>
 <h3 align="center">
 

@@ -41,19 +41,21 @@ I'm Ji Yong-Hyeon, a passionate developer who loves to explore new technologies 
     <!-- First Column -->
     <td valign="top" style="padding: 0;">
         <img src="https://img.shields.io/badge/Lang-C-A8B9CC?style=flat&logo=C&logoColor=black"><br>
+       <img src="https://img.shields.io/badge/Lang-Rust-DEA584?style=flat&logo=Rust&logoColor=white"><br>
         <img src="https://img.shields.io/badge/Lang-Python-3776AB?style=flat&logo=Python&logoColor=white"><br>
         <img src="https://img.shields.io/badge/Lang-SageMath-800442?style=flat&logo=Python&logoColor=white"><br>
         <img src="https://img.shields.io/badge/Lang-LaTeX-008080?style=flat&logo=LaTeX&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Lang-Manim-FF69B4?style=flat&logo=Python&logoColor=white"><br>
         <img src="https://img.shields.io/badge/Lang-Haskell-5D4F85?style=flat&logo=Haskell&logoColor=white"><br>
         <!-- Add more badges or content here -->
     </td>
     <!-- Second Column -->
     <td valign="top" style="padding: 0;">
       <img src="https://img.shields.io/badge/Tool-Linux-228B22?style=flat"><br>
+      <img src="https://img.shields.io/badge/Tool-NeoVim-228B22?style=flat"><br>
       <img src="https://img.shields.io/badge/Tool-VsCode-blue" alt="JavaScript Badge" /><br>
       <img src="https://img.shields.io/badge/Tool-TexStudio-20D7B2?style=flat"><br>
       <img src="https://img.shields.io/badge/Tool-ChatGPT4-EE69A4?style=flat"><br>
+      <img src="https://img.shields.io/badge/Tool-Ollama-EE69A4?style=flat"><br>
       <!-- <img src="https://img.shields.io/badge/Tool-AutoGPT-EE69A4?style=flat"><br> -->
       <!-- Add more badges or content here -->
     </td>

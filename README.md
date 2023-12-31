@@ -26,7 +26,15 @@
 
 ## <span style="color:#ffa500;">About Me</span> :man_technologist:
 
-I'm Ji Yong-Hyeon, a passionate developer who loves to explore new technologies and leverage them to solve real-life problems. I'm enthusiastic about open-source contributions and strive to make a significant impact on the community.
+Hello there! 👋
+
+I'm Ji Yong-Hyeon, a passionate individual majoring in Mathematics and Cryptography. My academic journey has been driven by a deep fascination with the intricate world of cryptographic systems. I'm particularly intrigued by the design and implementation aspects of cryptography, always striving to merge theoretical knowledge with practical application.
+
+My journey in this field is fueled by a commitment to become a leading theorist and engineer. I believe that the synergy of theoretical understanding and practical skills is key to innovation in cryptography. As such, I'm continually working on projects and research that challenge and expand my expertise.
+
+Here on GitHub, you'll find my contributions to various projects related to cryptography. My work ranges from theoretical explorations to the development of cryptographic algorithms and systems. I'm always open to collaborating on projects that push the boundaries of our understanding and application of cryptographic principles.
+
+Feel free to reach out if you're interested in discussing cryptography, mathematics, or potential collaborations!
 
 ## <span style="color:#f8b88b;">Technologies & Tools</span> :wrench:
 

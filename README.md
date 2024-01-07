@@ -26,15 +26,15 @@
 
 ## <span style="color:#ffa500;">About Me</span> :man_technologist:
 
-Hello there! 👋
+Hello! 👋
 
-I'm Ji Yong-Hyeon, a passionate individual majoring in Mathematics and Cryptography. My academic journey has been driven by a deep fascination with the intricate world of cryptographic systems. I'm particularly intrigued by the design and implementation aspects of cryptography, always striving to merge theoretical knowledge with practical application.
+I'm Ji Yong-Hyeon, deeply passionate about Mathematics and Cryptography. My academic path is driven by a profound interest in the complexities of cryptographic systems. What really captivates me is the design and implementation side of cryptography, where I aim to blend theoretical insights with practical solutions.
 
-My journey in this field is fueled by a commitment to become a leading theorist and engineer. I believe that the synergy of theoretical understanding and practical skills is key to innovation in cryptography. As such, I'm continually working on projects and research that challenge and expand my expertise.
+My goal is to be a frontrunner in both theoretical and engineering aspects of this field. I strongly believe in the power of combining theoretical knowledge with practical know-how to spur innovations in cryptography. To this end, I'm constantly engaged in projects and research that push my boundaries and enhance my skills.
 
-Here on GitHub, you'll find my contributions to various projects related to cryptography. My work ranges from theoretical explorations to the development of cryptographic algorithms and systems. I'm always open to collaborating on projects that push the boundaries of our understanding and application of cryptographic principles.
+On my GitHub, you'll find my contributions to a variety of cryptography-related projects. My work spans from theoretical studies to crafting cryptographic algorithms and systems. I'm always keen on collaborating on projects that challenge and deepen our grasp of cryptographic concepts.
 
-Feel free to reach out if you're interested in discussing cryptography, mathematics, or potential collaborations!
+If you're keen on cryptography, mathematics, or looking for a collaboration, don't hesitate to get in touch!
 
 ## <span style="color:#f8b88b;">Technologies & Tools</span> :wrench:
 

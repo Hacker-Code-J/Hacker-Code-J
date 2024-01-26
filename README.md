@@ -57,6 +57,7 @@ If you're keen on cryptography, mathematics, or looking for a collaboration, don
     <td valign="top" style="padding: 0;">
       <img src="https://img.shields.io/badge/Tool-Linux-000000?style=flat&logo=linux&logoColor=white"><br>
       <img src="https://img.shields.io/badge/Tool-NeoVim-57A143?style=flat&logo=neovim&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Tool-Git-F05032?style=flat&logo=git&logoColor=white"><br>
       <img src="https://img.shields.io/badge/Tool-GitHub-181717?style=flat&logo=github&logoColor=white"><br>
       <img src="https://img.shields.io/badge/Tool-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"><br>
       <img src="https://img.shields.io/badge/Tool-TeXStudio-3D6117?style=flat"><br>

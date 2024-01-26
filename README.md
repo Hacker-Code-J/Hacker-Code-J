@@ -135,7 +135,9 @@ If you're keen on cryptography, mathematics, or looking for a collaboration, don
 
 ---
 
-## Career Highlights
+## <span style="color:#8a2be2;">Career Highlights</span> 🌟
+
+</div>
 
 ### KongJu University- Information Security Gifted Education Center 🏅
 - **Best Completion Award (2016 & 2017)**

@@ -58,19 +58,21 @@ If you're keen on cryptography, mathematics, or looking for a collaboration, don
     </td>
     <!-- Second Column -->
     <td valign="top" style="padding: 0;">
-      <img src="https://img.shields.io/badge/Tool-Linux-228B22?style=flat"><br>
-      <img src="https://img.shields.io/badge/Tool-NeoVim-228B22?style=flat"><br>
-      <img src="https://img.shields.io/badge/Tool-VsCode-blue" alt="JavaScript Badge" /><br>
-      <img src="https://img.shields.io/badge/Tool-TexStudio-20D7B2?style=flat"><br>
-      <img src="https://img.shields.io/badge/Tool-ChatGPT4-EE69A4?style=flat"><br>
-      <img src="https://img.shields.io/badge/Tool-Ollama-EE69A4?style=flat"><br>
+      <img src="https://img.shields.io/badge/Tool-Linux-000000?style=flat&logo=linux&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Tool-NeoVim-57A143?style=flat&logo=neovim&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Tool-GitHub-181717?style=flat&logo=github&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Tool-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Tool-TeXStudio-3D6117?style=flat"><br>
+      <img src="https://img.shields.io/badge/Tool-ChatGPT--4-AB68FF?style=flat"><br>
+      <img src="https://img.shields.io/badge/Tool-AutoGPT-FF4500?style=flat"><br>
+      <img src="https://img.shields.io/badge/Tool-Ollama-FF69B4?style=flat"><br>
       <!-- <img src="https://img.shields.io/badge/Tool-AutoGPT-EE69A4?style=flat"><br> -->
       <!-- Add more badges or content here -->
     </td>
     <!-- Third Column -->
     <td valign="top" style="padding: 0;">
-      <img src="https://img.shields.io/badge/Productivity-Notion-5050f3?style=flat"><br>
-      <img src="https://img.shields.io/badge/Productivity-Obsidian-5050f3?style=flat"><br>
+      <img src="https://img.shields.io/badge/Productivity-Obsidian-483699?style=flat&logo=obsidian&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Productivity-Notion-000000?style=flat&logo=notion&logoColor=white"><br>
       <!-- Add more badges or content here -->
     </td>
   </tr>

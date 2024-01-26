@@ -70,6 +70,7 @@ If you're keen on cryptography, mathematics, or looking for a collaboration, don
     <td valign="top" style="padding: 0;">
       <img src="https://img.shields.io/badge/Productivity-Obsidian-483699?style=flat&logo=obsidian&logoColor=white"><br>
       <img src="https://img.shields.io/badge/Productivity-Notion-000000?style=flat&logo=notion&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Productivity-Discord-5865F2?style=flat&logo=discord&logoColor=white"><br>
       <!-- Add more badges or content here -->
     </td>
   </tr>

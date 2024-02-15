@@ -6,7 +6,7 @@
   </a>
 </h1>
 <h3 align="center"> Department of Information Security, Cryptology and Mathematics</h3>
-<h3 align="center"> Kookmin University, Seuol, Repulic of Korea </h3>
+<h3 align="center"> Kookmin University, Seoul, Repulic of Korea </h3>
 <h3 align="center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHacker-Code-J&count_bg=%2320D7B2&title_bg=%23A163EF&icon=nintendogamecube.svg&icon_color=%23E7E7E7&title=Hacker-Code-J&edge_flat=false)](https://hits.seeyoufarm.com)

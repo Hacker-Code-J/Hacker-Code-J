@@ -150,10 +150,10 @@ If you're keen on cryptography, mathematics, or looking for a collaboration, don
 
 ## <span style="color:#8a2be2;">Featured Projects</span> :trophy:
 
-<!-- Showcase your best repositories here -->
+<!-- Showcase your best repositories here 
 - 🔭 [Innovative Project 1](https://github.com/Hacker-Code-J/project-1)
 - 🌱 [Creative Project 2](https://github.com/Hacker-Code-J/project-2)
-- 👯 [Collaborative Project 3](https://github.com/Hacker-Code-J/project-3)
+- 👯 [Collaborative Project 3](https://github.com/Hacker-Code-J/project-3)-->
 
 </div>
 

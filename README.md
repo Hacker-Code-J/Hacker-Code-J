@@ -123,11 +123,11 @@ If you're keen on cryptography, mathematics, or looking for a collaboration, don
     <tr>
       <!-- GitHub Trends image on the left -->
       <td width="50%">
-        <img src="https://api.githubtrends.io/user/svg/Hacker-Code-J/repos?time_range=three_months&group=other&loc_metric=changed&theme=classic" alt="Hacker-Code-J's GitHub Trends" width="100%" style="display: block; object-fit: contain;" />
+        <!-- <img src="https://api.githubtrends.io/user/svg/Hacker-Code-J/repos?time_range=three_months&group=other&loc_metric=changed&theme=classic" alt="Hacker-Code-J's GitHub Trends" width="100%" style="display: block; object-fit: contain;" /> -->
       </td>
       <!-- Empty cell on the right -->
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-Code-J&langs_count=6&theme=tokyo" alt="Hacker-Code-J's Top Languages" width="100%" style="display: block; object-fit: contain;" />         
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-Code-J&langs_count=5&theme=tokyo" alt="Hacker-Code-J's Top Languages" width="100%" style="display: block; object-fit: contain;" />         
       </td>
     </tr>
   </table>

@@ -60,7 +60,6 @@ If you're keen on cryptography, mathematics, or looking for a collaboration, don
       <img src="https://img.shields.io/badge/Tool-Git-F05032?style=flat&logo=git&logoColor=white"><br>
       <img src="https://img.shields.io/badge/Tool-GitHub-181717?style=flat&logo=github&logoColor=white"><br>
       <img src="https://img.shields.io/badge/Tool-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/Tool-TeXStudio-3D6117?style=flat"><br>
       <img src="https://img.shields.io/badge/Tool-ChatGPT--4-AB68FF?style=flat"><br>
       <img src="https://img.shields.io/badge/Tool-AutoGPT-FF4500?style=flat"><br>
       <img src="https://img.shields.io/badge/Tool-Ollama-FF69B4?style=flat"><br>
@@ -70,6 +69,8 @@ If you're keen on cryptography, mathematics, or looking for a collaboration, don
     <!-- Third Column -->
     <td valign="top" style="padding: 0;">
       <img src="https://img.shields.io/badge/Productivity-Obsidian-483699?style=flat&logo=obsidian&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Productivity-Eraser-FFC0CB?style=flat&logo=diagramsdotnet&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Productivity-TeXStudio-3D6117?style=flat&logo=latex"><br>
       <img src="https://img.shields.io/badge/Productivity-Notion-000000?style=flat&logo=notion&logoColor=white"><br>
       <img src="https://img.shields.io/badge/Productivity-Discord-5865F2?style=flat&logo=discord&logoColor=white"><br>
       <!-- Add more badges or content here -->
@@ -80,23 +81,23 @@ If you're keen on cryptography, mathematics, or looking for a collaboration, don
 <table width="100%" style="border-collapse: collapse;">
     <!-- Fourth Column -->
     <td valign="top" style="padding: 0;">
-      <img src="https://img.shields.io/badge/Mathematics-Set%20Theory-4e79a7?style=flat"><br>
-      <img src="https://img.shields.io/badge/Mathematics-Number%20Theory-9467bd?style=flat"><br>
-      <img src="https://img.shields.io/badge/Mathematics-Abstract%20Algebra-1f77b4?style=flat"><br>
-      <img src="https://img.shields.io/badge/Mathematics-Calculus-2ca02c?style=flat"><br>
-      <img src="https://img.shields.io/badge/Mathematics-Linear%20Algebra-FFA07A?style=flat"><br>
-      <img src="https://img.shields.io/badge/Mathematics-Probability%20Theory-17becf?style=flat"><br>
-      <img src="https://img.shields.io/badge/Mathematics-Statistics-167f7f?style=flat"><br>
-      <img src="https://img.shields.io/badge/Mathematics-Analysis-167f7f?style=flat"><br>
+      <img src="https://img.shields.io/badge/Mathematics-Set%20Theory-4e79a7?style=flat&logo=influxdb"><br>
+      <img src="https://img.shields.io/badge/Mathematics-Number%20Theory-9467bd?style=flat&logo=influxdb"><br>
+      <img src="https://img.shields.io/badge/Mathematics-Abstract%20Algebra-1f77b4?style=flat&logo=influxdb"><br>
+      <img src="https://img.shields.io/badge/Mathematics-Calculus-2ca02c?style=flat&logo=influxdb"><br>
+      <img src="https://img.shields.io/badge/Mathematics-Linear%20Algebra-FFA07A?style=flat&logo=influxdb"><br>
+      <img src="https://img.shields.io/badge/Mathematics-Probability%20Theory-17becf?style=flat&logo=influxdb"><br>
+      <img src="https://img.shields.io/badge/Mathematics-Statistics-167f7f?style=flat&logo=influxdb"><br>
+      <img src="https://img.shields.io/badge/Mathematics-Analysis-167f7f?style=flat&logo=influxdb"><br>
       <!-- Add more badges or content here -->
     </td>
     <!-- Fiveth Column -->
     <td valign="top" style="padding: 0;">
-      <img src="https://img.shields.io/badge/Cryptography-Symmetric%20Key%20Cryptography-5050f3?style=flat"><br>
-      <img src="https://img.shields.io/badge/Cryptography-Public%20Key%20Cryptography-0077CC?style=flat"><br>
-      <img src="https://img.shields.io/badge/Cryptography-Cryptanalysis-CC0000?style=flat"><br>
-      <img src="https://img.shields.io/badge/Cryptography-Hash%20Functions-00008B?style=flat"><br>
-      <img src="https://img.shields.io/badge/Cryptography-Discrete%20Logarithm-800080?style=flat"><br>
+      <img src="https://img.shields.io/badge/Cryptography-Symmetric%20Key%20Cryptography-5050f3?style=flat&logo=cryptpad"><br>
+      <img src="https://img.shields.io/badge/Cryptography-Public%20Key%20Cryptography-0077CC?style=flat&logo=cryptpad"><br>
+      <img src="https://img.shields.io/badge/Cryptography-Cryptanalysis-CC0000?style=flat&logo=cryptpad"><br>
+      <img src="https://img.shields.io/badge/Cryptography-Hash%20Functions-00008B?style=flat&logo=cryptpad"><br>
+      <img src="https://img.shields.io/badge/Cryptography-Discrete%20Logarithm-800080?style=flat&logo=cryptpad"><br>
       <!-- Add more badges or content here -->
     </td>
   </tr>

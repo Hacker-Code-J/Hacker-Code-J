@@ -45,12 +45,13 @@ If you're keen on cryptography, mathematics, or looking for a collaboration, don
   <tr>
     <!-- First Column -->
     <td valign="top" style="padding: 0;">
-        <img src="https://img.shields.io/badge/Language-C-A8B9CC?style=flat&logo=C&logoColor=black"><br>
-       <img src="https://img.shields.io/badge/Language-Rust-DEA584?style=flat&logo=Rust&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Language-Haskell-5D4F85?style=flat&logo=Haskell&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=Python&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Language-SageMath-800442?style=flat&logo=Python&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Language-TeX-008080?style=flat&logo=LaTeX&logoColor=white"><br>
+         <img src="https://img.shields.io/badge/Language-C-A8B9CC?style=flat&logo=C&logoColor=black"><br>
+         <img src="https://img.shields.io/badge/Language-Rust-DEA584?style=flat&logo=Rust&logoColor=white"><br>
+         <img src="https://img.shields.io/badge/Language-Haskell-5D4F85?style=flat&logo=Haskell&logoColor=white"><br>
+         <img src="https://img.shields.io/badge/Language-OCaml-EF7A0D?style=flat&logo=OCaml&logoColor=white"><br>
+         <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=Python&logoColor=white"><br>
+         <img src="https://img.shields.io/badge/Language-SageMath-800442?style=flat&logo=Python&logoColor=white"><br>
+         <img src="https://img.shields.io/badge/Language-TeX-008080?style=flat&logo=LaTeX&logoColor=white"><br>
         <!-- Add more badges or content here -->
     </td>
     <!-- Second Column -->

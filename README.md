@@ -9,8 +9,7 @@
 <!-- <h3 align="center"> Kookmin University, Seoul, Repulic of Korea </h3> -->
 <h3 align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHacker-Code-J&count_bg=%2320D7B2&title_bg=%23A163EF&icon=nintendogamecube.svg&icon_color=%23E7E7E7&title=Hacker-Code-J&edge_flat=false)](https://hits.seeyoufarm.com)
-
+[![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FHacker-Code-J?color=green&label=Hits&size=medium)](https://myhits.vercel.app)
   
 <!-- <p align="center"> -->
 <!--  <a href="https://www.linkedin.com/in/yong-hyeon-ji"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a> -->

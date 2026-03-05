@@ -19,7 +19,6 @@
 </div>
 
 ---
-
 ## <span style="color:#ffa500;">About Me</span> :man_technologist:
 
 Hello! 👋
@@ -109,30 +108,10 @@ If you're keen on cryptography, mathematics, or looking for a collaboration, don
 ## <span style="color:#9acd32;">Statistics</span> :bar_chart:
 
 <p align="center">
-  <table width="100%" style="table-layout: fixed;">
-    <!-- New row for the first and second images side by side -->
-    <tr>
-      <!-- First image on the left -->
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Hacker-Code-J&show_icons=true&theme=tokyo" alt="Hacker-Code-J's GitHub Stats" width="100%" style="max-height: 300px; display: block; object-fit: contain;" />
-      </td>
-      <!-- Second image on the right -->
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hacker-Code-J&theme=tokyo" alt="Hacker-Code-J's GitHub Streak" width="100%" style="max-height: 300px; display: block; object-fit: contain;" />
-      </td>
-    </tr>
-    <!-- New row for the GitHub Trends image on the left and empty space on the right -->
-    <tr>
-      <!-- GitHub Trends image on the left -->
-      <td width="50%">
-        <img src="https://api.githubtrends.io/user/svg/Hacker-Code-J/repos?time_range=three_months&group=other&loc_metric=changed&theme=classic" alt="Hacker-Code-J's GitHub Trends" width="100%" style="display: block; object-fit: contain;" />
-      </td>
-      <!-- Empty cell on the right -->
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-Code-J&langs_count=5&theme=tokyo" alt="Hacker-Code-J's Top Languages" width="100%" style="display: block; object-fit: contain;" />         
-      </td>
-    </tr>
-  </table>
+<img
+  src="https://githubcard.com/Hacker-Code-J.svg?d=tLkdEGmG"
+  alt="GitHubCard for Hacker-Code-J"
+/>
 </p>
 
 ---

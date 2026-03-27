@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome to Ji Yong-Hyeon’s GitHub
+# Welcome to Code-J’s GitHub
 
 [![GitHub Trends](https://img.shields.io/badge/GitHub%20Trends-2024-9cf?style=for-the-badge&logo=github)](https://www.githubwrapped.io/Hacker-Code-J)
 [![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FHacker-Code-J?color=green&label=Hits&size=medium)](https://myhits.vercel.app)
